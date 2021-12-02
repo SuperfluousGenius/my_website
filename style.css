@@ -33,3 +33,8 @@ background: linear-gradient(90deg, rgba(130,175,21,1) 17%, rgba(32,186,78,1) 30%
   margin: 15px 0;
   padding: 20px;
 }
+
+th, td {
+  border: 1px solid black;
+  border-radius: 10px;
+}
