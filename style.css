@@ -19,10 +19,11 @@ li {
 }
 
 body {
-  background: rgb(130,175,21);
+text-align:center;  
+background: rgb(130,175,21);
 background: linear-gradient(90deg, rgba(130,175,21,1) 17%, rgba(32,186,78,1) 30%, rgba(18,227,161,1) 
   56%, rgba(14,238,209,1) 71%, rgba(8,228,218,0.8552338415835083) 93%, rgba(26,216,231,0.8552338415835083) 95%);
-  font-family: Arial, Helvetica, sans-serif;
+ font-family: Copperplate / Copperplate Gothic Light, sans-serif;
 }
 
 .jared {
